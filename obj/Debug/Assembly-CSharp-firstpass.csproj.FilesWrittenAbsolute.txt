@@ -1,0 +1,17 @@
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/astott/Desktop/KanjiGame/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/astott/Desktop/KanjiGame/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/UnityEngine.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/UnityEditor.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Mono.Cecil.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Unity.DataContract.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/astott/Desktop/KanjiGame/Temp/bin/Debug/Mono.Cecil.Mdb.dll
