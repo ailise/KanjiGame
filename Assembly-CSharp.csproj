@@ -45,25 +45,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\ActiveStateToggler.cs" />
-     <Compile Include="Assets\Scripts\ApplicationManager.cs" />
-     <Compile Include="Assets\Scripts\ChangeColor.cs" />
      <Compile Include="Assets\Scripts\DragHandler.cs" />
      <Compile Include="Assets\Scripts\DragMe.cs" />
      <Compile Include="Assets\Scripts\DragPanel.cs" />
      <Compile Include="Assets\Scripts\DropMe.cs" />
-     <Compile Include="Assets\Scripts\GrabandDrop.cs" />
      <Compile Include="Assets\Scripts\Inventory.cs" />
      <Compile Include="Assets\Scripts\JSONReader.cs" />
-     <Compile Include="Assets\Scripts\PanelManager.cs" />
-     <Compile Include="Assets\Scripts\ResizePanel.cs" />
-     <Compile Include="Assets\Scripts\ScrollDetailTexture.cs" />
-     <Compile Include="Assets\Scripts\ShowSliderValue.cs" />
      <Compile Include="Assets\Scripts\SimpleJSON.cs" />
      <Compile Include="Assets\Scripts\Slot.cs" />
-     <Compile Include="Assets\Scripts\TiltWindow.cs" />
-     <None Include="Assets\Fonts\Jupiter\LICENSE.txt" />
-     <None Include="Assets\Materials\UI-Default-No-Alpha.shader" />
+     <None Include="Assets\reducedkradfile.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

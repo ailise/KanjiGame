@@ -7,31 +7,29 @@ using SimpleJSON;
 using UnityEngine.UI;
 using System.Linq;
 
+
 public class JSONReader : MonoBehaviour
 {
 
 	public Text text;
 
-	public void Awake ()
+	public void Start ()
 	{
-		string kanjiInput = System.IO.File.ReadAllText ("assets/moon_speak.json");
+		string kanjiInput = System.IO.File.ReadAllText ("assets/sample_dictionary.json");
 
 		var parsedInput = JSON.Parse (kanjiInput);
-		Debug.Log (parsedInput.Count);
-
-		var maru = parsedInput [2] ["hiragana"];
-
-//		List<string> keyList = kanjiInput.Keys.ToList();
-		Debug.Log (maru);
+		
+	
+		var levelKanji = parsedInput [UnityEngine.Random.Range (0, parsedInput.Count)];
+		Debug.Log (levelKanji ["kanji"]);
 
 		text = GetComponent<Text> ();
 
-		text.text = maru [0];
-
+		text.text = levelKanji ["kanji"];  
+		
 
 
 	}
-
 
 }
 
