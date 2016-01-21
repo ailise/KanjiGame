@@ -17,7 +17,7 @@ public class JSONReader : MonoBehaviour
 
 	public void Start ()
 	{
-		string kanjiInput = System.IO.File.ReadAllText ("assets/sample_dictionary.json");
+		string kanjiInput = System.IO.File.ReadAllText ("assets/moon_speak.json");
 		var parsedInput = JSON.Parse (kanjiInput);
 		var levelKanji = parsedInput [UnityEngine.Random.Range (0, parsedInput.Count)];
 //		Debug.Log (levelKanji ["kanji"]);
