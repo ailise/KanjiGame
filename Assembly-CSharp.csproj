@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\DropMe.cs" />
      <Compile Include="Assets\Scripts\Inventory.cs" />
      <Compile Include="Assets\Scripts\JSONReader.cs" />
+     <Compile Include="Assets\Scripts\RadicalOptions.cs" />
      <Compile Include="Assets\Scripts\SimpleJSON.cs" />
      <Compile Include="Assets\Scripts\Slot.cs" />
      <None Include="Assets\reducedkradfile.txt" />
